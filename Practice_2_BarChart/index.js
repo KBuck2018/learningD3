@@ -1,7 +1,7 @@
 var dataset = [];
 
-for (var i = 0; i < 35; i++) {
-  var newNumber = Math.round(Math.random() * 30);
+for (var i = 0; i < 50; i++) {
+  var newNumber = Math.round(Math.random() * 45);
   dataset.push(newNumber);
 }
 
