@@ -1,0 +1,19 @@
+text {
+  font: bold 48px monospace;
+}
+
+.enter {
+  fill: green;
+}
+
+.update {
+  fill: #333;
+}
+
+div.bar {
+  display: inline-block;
+  width: 20px;
+  height: 75px; /* We'll override this later */
+  background-color: teal;
+  margin-right: 2px;
+}
